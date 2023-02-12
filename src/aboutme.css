@@ -1,0 +1,27 @@
+.card {
+  margin-top: 20px;
+}
+
+.about_me {
+  padding: 10px;
+}
+
+.about_me_card {
+  padding: 20px;
+}
+
+.sub-title {
+  font-weight: normal;
+  font-size: 16px !important;
+  margin-top: 5px;
+}
+
+.my_pic {
+  width: 200px;
+  height: 200px;
+  border-radius: 100px;
+}
+
+.contact-button {
+  margin-top: 10px;
+}
